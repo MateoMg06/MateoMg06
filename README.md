@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**MateoMg06/MateoMg06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm Mateo Mercado i'm Software developer in training
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate on CR7 SIUUUUUUUUU
+- 🤔 I’m looking for help with I dont know
+- 💬 Ask me about nothing beacuase i dont know to
+- 📫 How to reach me: with my phon numbre but i foget it
+- 😄 Pronouns: empanaditas
+- ⚡ Fun fact: messi betther thant cr7
+- 
 -->
