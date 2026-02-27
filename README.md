@@ -4,13 +4,13 @@ i'm Mateo Mercado i'm Software developer in training
 
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on learn more thant i know about make functionally software
 - 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on CR7 SIUUUUUUUUU
-- 🤔 I’m looking for help with I dont know
-- 💬 Ask me about nothing beacuase i dont know to
-- 📫 How to reach me: with my phon numbre but i foget it
-- 😄 Pronouns: empanaditas
-- ⚡ Fun fact: messi betther thant cr7
+- 👯 I’m looking to collaborate on with CR7 
+- 🤔 I’m looking for help with how to use the better way github branches
+- 💬 Ask me about are you ready to make big steps in your live? 
+- 📫 How to reach me: phone number: 3161458650 personal email: mateomercado234@gmail.com
+- 😄 Pronouns: Riwi coders
+- ⚡ Fun fact: 
 - 
 -->
