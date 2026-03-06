@@ -1,51 +1,55 @@
-# 👋 Hola, soy Mateo Mercado
+# 👋 Hi, I'm Mateo Mercado
 
-💻 Estudiante interesado en la programación, especialmente en el desarrollo con **Python** y en el aprendizaje de **estructuras de datos y lógica de programación**.
-
----
-
-## 🚀 Sobre mí
-
-* 🎓 Actualmente aprendiendo programación y desarrollo de software
-* 🐍 Trabajo principalmente con **Python**
-* 📚 Me gusta practicar lógica, algoritmos y estructuras de datos
-* 🛠️ Interesado en proyectos prácticos para mejorar mis habilidades
+💻 Student interested in programming, especially **Python development** and learning **data structures and programming logic**.
 
 ---
 
-## 🧠 Tecnologías que estoy aprendiendo
+## 🚀 About Me
+
+* 🎓 Currently learning programming and software development
+* 🐍 Mainly working with **Python**
+* 📚 I enjoy practicing logic, algorithms, and data structures
+* 🛠️ Interested in building practical projects to improve my skills
+
+---
+
+## 🧠 Technologies I'm Learning
 
 * Python
-* Git y GitHub
-* Estructuras de datos
-* Lógica de programación
+* Git & GitHub
+* Data Structures
+* Programming Logic
 
 ---
 
-## 📂 Proyectos
+## 📂 Projects
 
 🔹 **Riwi Smart Cash**
-Sistema simple de simulación de cajero automático en Python que permite:
+A simple ATM simulation system built with Python that allows users to:
 
-* Consultar saldo
-* Realizar retiros
-* Validar entradas del usuario
-* Manejo básico de errores
-
----
-
-## 📈 Objetivos
-
-* Mejorar mis habilidades en programación
-* Aprender más sobre desarrollo de software
-* Construir proyectos cada vez más completos
+* Check balance
+* Make withdrawals
+* Validate user input
+* Handle basic errors
 
 ---
 
-## 📫 Contacto
+## 📈 Goals
+
+* Improve my programming skills
+* Learn more about software development
+* Build more complete and useful projects
+
+---
+
+## 📫 Contact
 
 GitHub: https://github.com/MateoMg06
 
 ---
 
-⭐ Siempre estoy aprendiendo y construyendo nuevos proyectos.
+⭐ Always learning and building new projects.
+
+---
+
+
