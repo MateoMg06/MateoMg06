@@ -1,0 +1,12 @@
+{
+  "title": "Backend Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and run: python scripts/radar.py --data assets/skills.json -o assets/radar",
+  "axes": [
+    {"label": "REST APIs", "value": 85},
+    {"label": "Databases (SQL)", "value": 80},
+    {"label": "Auth & Security", "value": 75},
+    {"label": "Architecture", "value": 72},
+    {"label": "Docker & DevOps", "value": 60},
+    {"label": "Frontend", "value": 65}
+  ]
+}
